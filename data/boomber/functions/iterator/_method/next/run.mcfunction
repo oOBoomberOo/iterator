@@ -1,3 +1,5 @@
+# TODO: implement chaining iterator behavior
+
 #define storage boomber:iterator/item
 #define entity #bb.iter.result
 #define entity #bb.iter.item.type
