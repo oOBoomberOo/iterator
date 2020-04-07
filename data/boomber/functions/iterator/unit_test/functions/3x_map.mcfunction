@@ -1,0 +1,1 @@
+execute store result storage boomber:iterator/function return int 3 run data get storage boomber:iterator/function item

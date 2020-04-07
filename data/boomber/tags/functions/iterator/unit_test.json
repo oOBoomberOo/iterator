@@ -2,6 +2,6 @@
 	"values": [
 		"boomber:iterator/unit_test/any/simple_any",
 		"boomber:iterator/unit_test/for_each/simple_for_each",
-		"boomber:iterator/unit_test/map/2x_map"
+		"boomber:iterator/unit_test/map/simple_map"
 	]
 }
