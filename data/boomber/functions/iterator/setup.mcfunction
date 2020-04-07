@@ -28,4 +28,5 @@ scoreboard players set #bb.iter.bool.false bb.iter.enum 0
 #define entity #bb.iter.bool.true
 scoreboard players set #bb.iter.bool.true bb.iter.enum 1
 
+function boomber:iterator/core/setup
 function #boomber:iterator/unit_test

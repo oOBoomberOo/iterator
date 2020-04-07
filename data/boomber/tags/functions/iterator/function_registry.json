@@ -1,5 +1,6 @@
 {
 	"values": [
+		"boomber:iterator/core/register",
 		"boomber:iterator/unit_test/function_register"
 	]
 }

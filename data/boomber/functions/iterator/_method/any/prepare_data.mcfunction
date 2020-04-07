@@ -1,1 +1,1 @@
-data merge storage boomber:iterator/any { compare: 0, compute: 0 }
+data merge storage boomber:iterator/any { function: {}, compute: 0 }

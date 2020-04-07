@@ -1,0 +1,1 @@
+execute if score $function.id ffi.iter = #bb.iter.core.fn.equal bb.iter.enum run function boomber:iterator/core/functions/equal

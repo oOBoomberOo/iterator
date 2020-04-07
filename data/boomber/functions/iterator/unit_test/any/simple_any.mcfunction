@@ -3,7 +3,7 @@ data modify storage boomber:iterator input set value ["megumin", "kazuma", "dark
 function boomber:iterator/new
 
 #> Chain `any` iterator with this keyword
-data modify storage boomber:iterator input set value "megumin"
+data modify storage boomber:iterator input set value {namespace: "std::iterator", id: 1, keyword: "megumin"}
 function boomber:iterator/any
 
 #> Lazily evaluated iterator

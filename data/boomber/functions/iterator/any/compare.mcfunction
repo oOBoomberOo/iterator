@@ -1,1 +1,0 @@
-function boomber:iterator/_method/any/compare
