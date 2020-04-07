@@ -1,7 +1,8 @@
 {
 	"values": [
 		"boomber:iterator/unit_test/any/simple_any",
-		"boomber:iterator/unit_test/for_each/simple_for_each",
-		"boomber:iterator/unit_test/map/simple_map"
+		"boomber:iterator/unit_test/any/custom_function",
+		"boomber:iterator/unit_test/map/simple_map",
+		"boomber:iterator/unit_test/map/map_with_any"
 	]
 }
