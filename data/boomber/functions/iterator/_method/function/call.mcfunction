@@ -5,6 +5,10 @@
 # NOTE: Need more function parameter to pass to the FFI
 function boomber:iterator/_method/function/prepare_data
 data modify storage boomber:iterator/function function set from storage boomber:iterator/function input
+data modify storage boomber:iterator/function item set from storage boomber:iterator/item item
+
+# Default return value so immutable iterator doesn't need to specify it
+data modify storage boomber:iterator/function return set from storage boomber:iterator/item item
 
 #define entity $function.id
 # NOTE: Maybe there should be a clear distinct syntax between local scoreboard and ffi scoreboard?

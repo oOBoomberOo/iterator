@@ -2,8 +2,8 @@ scoreboard objectives add ffi.iter dummy
 scoreboard objectives add bb.iter.var dummy
 scoreboard objectives add bb.iter.enum dummy
 
-#define entity #bb.iter.init
-scoreboard players set #bb.iter.init bb.iter.enum 0
+#define entity #bb.iter.return
+scoreboard players set #bb.iter.return bb.iter.enum 0
 #define entity #bb.iter.map
 scoreboard players set #bb.iter.map bb.iter.enum 1
 #define entity #bb.iter.all

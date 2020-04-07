@@ -1,1 +1,1 @@
-data modify storage boomber:iterator iterator append value { name: "collect", enum: 4 }
+data modify storage boomber:iterator iterator append value { enum: 4 }
