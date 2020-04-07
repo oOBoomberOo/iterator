@@ -1,0 +1,1 @@
+execute if data storage boomber:iterator/function function{namespace: "boomber:iterator/unit_test"} run function boomber:iterator/unit_test/evaluate_function

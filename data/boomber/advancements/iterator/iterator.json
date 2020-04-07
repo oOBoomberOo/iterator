@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": "Iterator Utils",
+		"description": "",
+		"icon": {
+			"item": "minecraft:bucket"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

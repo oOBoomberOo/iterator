@@ -1,0 +1,1 @@
+function boomber:iterator/_method/any/map_any_result

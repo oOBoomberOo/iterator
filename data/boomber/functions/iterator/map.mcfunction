@@ -1,0 +1,1 @@
+function boomber:iterator/chain_iterator/map

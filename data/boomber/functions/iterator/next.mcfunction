@@ -1,0 +1,1 @@
+function boomber:iterator/_method/next/run
